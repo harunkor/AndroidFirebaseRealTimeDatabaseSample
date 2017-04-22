@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "142529577621",
+    "firebase_url": "https://nimble-lead-126213.firebaseio.com",
+    "project_id": "nimble-lead-126213",
+    "storage_bucket": "nimble-lead-126213.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:142529577621:android:04b0c82a53bc82ed",
+        "android_client_info": {
+          "package_name": "com.harunkor.firebaserealtimedatabasesample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "142529577621-luhrib92ev795eu8i9adnv4kat963gk2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.harunkor.firebaserealtimedatabasesample",
+            "certificate_hash": "9f7816b4f9e3477f8d0fbc718547d3c0f261628d"
+          }
+        },
+        {
+          "client_id": "142529577621-023407jejb4qjf9dtu3g2fskl0n1jesu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfoCyiWpHIAI8fP4WZvmjC8a8NaGHb1mM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "142529577621-023407jejb4qjf9dtu3g2fskl0n1jesu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
